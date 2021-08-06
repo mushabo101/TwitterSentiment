@@ -1,1 +1,1 @@
-# TwitterSentiment
+Nowdays we no longer difficult to know what people think about a topic which is trends, we can analysing the tweets on twitter. The tweets have a sentiment, positive or negative sentiment use cases for NLP (Natural Language Processing). In this porject I am going to use NLP with "Tweepy" library in Python to access our Twitteer API, to start you have to register a twitter developer account.
